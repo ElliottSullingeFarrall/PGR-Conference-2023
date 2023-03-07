@@ -26,6 +26,8 @@ including numerical approximations, partial differential inclusions and Fourier-
 type analysis. We will develop several techniques for solving PDIs and evaluate
 the benefits of these methods in relation to analysing the functionals under
 consideration. Overall, we will obtain bounds on a parameter in both the cases
-of sufficient and necessary conditions for the existence of a global minimiser. 
+of sufficient and necessary conditions for the existence of a global minimiser.
+
+# Additional Solutions to the PDI
 
 ![](images/AnimatedFold2.gif)
