@@ -6,6 +6,7 @@ sidering the effects of making small changes (variations) to functions. This lea
 to much more complexity than that of the ’standard’ calculus, where we can
 simply just find zeros of derivatives. In the calculus of variations, great care has
 to be taken regarding the spaces of functions that we consider.
+
 We will begin this talk with an exploration of some of the key concepts in the
 calculus of variations, including variational methods and the direct method. We
 will establish some definitions of convexity that are commonly used in the field
@@ -16,6 +17,7 @@ optimising the Dirichlet energy functional under certain boundary conditions
 (Bevan 14). The study of polyconvex functionals is of great interest in the area
 of elasticity (see Open Problems in Elasticity, Ball 02) and features many un-
 solved problems that seemingly do not yield to the standard methods in the field.
+
 In particular, we will establish conditions for a certain parameterised family
 of polyconvex functionals to have a global minimum. The functionals we will
 be considering do not meet the usual conditions to be treated by the direct
