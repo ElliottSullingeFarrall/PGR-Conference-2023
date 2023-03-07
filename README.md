@@ -1,6 +1,6 @@
-# Optimisation of a 1D Family of Polyconvex Functionals
+foo
 
-## Abstract
+# Abstract
 
 The calculus of variations is an area of analysis that predominantly focuses on
 the optimisation of functionals (functions that map functions to scalars) by con-
@@ -30,6 +30,6 @@ the benefits of these methods in relation to analysing the functionals under
 consideration. Overall, we will obtain bounds on a parameter in both the cases
 of sufficient and necessary conditions for the existence of a global minimiser.
 
-## Additional Solutions to the PDI
+# Additional Solutions to the PDI
 
 ![](images/AnimatedFold2.gif)
