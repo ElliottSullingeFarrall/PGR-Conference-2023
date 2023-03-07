@@ -1,3 +1,4 @@
+
 ## Abstract
 
 The calculus of variations is an area of analysis that predominantly focuses on
