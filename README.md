@@ -1,3 +1,4 @@
+# Optimisation of a 1D Family of Polyconvex Functionals
 
 ## Abstract
 
