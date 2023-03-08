@@ -11,4 +11,6 @@ layout: default
 
 Here we show some additional solutions $u \in W^{1,2}_0(Q; \mathbb{R}^2)$ to the PDI $\nabla u \in \text{O}(2)$. On the left we plot the original solution. In the middle we plot additional maps that, when composed with the original solution, preserve the PDI and boundary condition. The animations runs through several examples of these maps. On the right we then plot the result of this compsoition.
 
+dfsdfdsfs
+
 ![](images/AnimatedFold2.gif)
