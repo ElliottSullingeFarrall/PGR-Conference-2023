@@ -21,9 +21,9 @@
 title: Optimisation of a 1D Family of Polyconvex Functionals
 email: elliott.sullinge-farrall@surrey.ac.uk
 description: Elliott Sullinge-Farrall
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: ElliottSullingeFarrall/PGR-Conference-2023
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username:  
 
